@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadowrun/Проверки.md",
+                "file": "home.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shadowrun/Проверки.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shadowrun/Проверки.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shadowrun/Проверки.md"
+                "file": "home.md"
               }
             }
           }
@@ -202,9 +202,9 @@
   },
   "active": "120ef90644c8cd3d",
   "lastOpenFiles": [
+    "Shadowrun/Проверки.md",
     "home.md",
     "netlify.toml",
-    "Shadowrun/Проверки.md",
     "Shadowrun",
     "web-programming/React/Callbacks.md",
     "web-programming/React/Carrying props.md",
