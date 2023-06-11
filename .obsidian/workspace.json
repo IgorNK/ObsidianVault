@@ -35,8 +35,12 @@
             "id": "c94263c9b7e1ecb6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "web-programming/JS/JS DOM manipulation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -69,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadowrun 3rd Ed./Проверки.md",
+                "file": "Shadowrun 3rd Ed./Время.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,14 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadowrun 3rd Ed./Проверки.md",
+                "file": "web-programming/CSS/CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -162,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shadowrun 3rd Ed./Проверки.md",
+                "file": "Shadowrun 3rd Ed./Время.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shadowrun 3rd Ed./Проверки.md",
+                "file": "Shadowrun 3rd Ed./Время.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shadowrun 3rd Ed./Проверки.md"
+                "file": "Shadowrun 3rd Ed./Время.md"
               }
             }
           }
@@ -223,14 +227,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d07557c33b1208b4",
+  "active": "9fec74e6867d557f",
   "lastOpenFiles": [
     "Shadowrun 3rd Ed./Проверки.md",
+    "Shadowrun 3rd Ed./Время.md",
+    "web-programming/JS/JS DOM manipulation.md",
+    "web-programming/CSS/CSS.md",
+    "Shadowrun 3rd Ed./Shadowrun 3rd Ed..md",
     "home.md",
     "web-programming/React/React.md",
     "web-programming/JS/JavaScript.md",
     "web-programming/HTML/HTML.md",
-    "web-programming/CSS/CSS.md",
     "web-programming/CSS/CSS Grid alignment.md",
     "web-programming/Web Programming.md",
     "Vim/Vim.md",
@@ -238,7 +245,6 @@
     "Git/Git.md",
     "Git/Git branches.md",
     "bash/Bash.md",
-    "Shadowrun 3rd Ed./Shadowrun 3rd Ed..md",
     "netlify.toml",
     "Shadowrun 3rd Ed.",
     "web-programming/React/Callbacks.md",
@@ -252,8 +258,6 @@
     "web-programming/React/PropTypes.md",
     "web-programming/React/Prop forwarding.md",
     "web-programming/CSS/CSS Properties.md",
-    "web-programming/CSS/CSS hide checkboxes.md",
-    "web-programming/CSS/CSS Grid uncertain tracks.md",
     "Untitled.canvas",
     "Pasted image 20221201195033.png",
     "Pasted image 20221201194852.png",
