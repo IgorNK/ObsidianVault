@@ -55,12 +55,8 @@
             "id": "120ef90644c8cd3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -138,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "home.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -187,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,6 +193,7 @@
   },
   "active": "120ef90644c8cd3d",
   "lastOpenFiles": [
+    "Shadowrun/Shadowrun.md",
     "Shadowrun/Проверки.md",
     "home.md",
     "netlify.toml",
@@ -230,7 +222,6 @@
     "Git/Git quick primer.md",
     "Git/SSH key generation.md",
     "web-programming/CSS/CSS Pseudo-classes.md",
-    "web-programming/CSS/CSS Selectors.md",
     "Untitled.canvas",
     "Pasted image 20221201195033.png",
     "Pasted image 20221201194852.png",
