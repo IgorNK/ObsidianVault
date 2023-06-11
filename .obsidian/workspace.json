@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "c7bb519b0cd54e72",
+    "type": "split",
+    "children": [
+      {
+        "id": "11f62b8d74a509aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2041702833cd221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vim/Vim tips.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e5dcd1e93669284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web-programming/React/Props.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c94263c9b7e1ecb6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d40bfcf93de72fbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web-programming/React/Carrying props.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "120ef90644c8cd3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shadowrun/Проверки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eefbcfd839c8ce13",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e22e993804e739c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7866ac66ebe78946",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e0354ec0ea2571a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#fancy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79d2a0cd4f62ab9f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7e2edccc7fb0de4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43a2f65b57430518",
+    "type": "split",
+    "children": [
+      {
+        "id": "06c27fe76031d7bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b5cdc86792af743",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Shadowrun/Проверки.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19e3b5560c471f01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Shadowrun/Проверки.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b6909aab9565e1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "66f7bc09cfc8d311",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Shadowrun/Проверки.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "120ef90644c8cd3d",
+  "lastOpenFiles": [
+    "Shadowrun/Проверки.md",
+    "Shadowrun",
+    "web-programming/React/Callbacks.md",
+    "web-programming/React/Carrying props.md",
+    "web-programming/React/css-loader.md",
+    "web-programming/React/Props.md",
+    "web-programming/React/State.md",
+    "Vim/nvim shortcuts.md",
+    "Vim/Vim tips.md",
+    "web-programming/React/Font imports.md",
+    "web-programming/React/Untitled",
+    "web-programming/React/PropTypes.md",
+    "web-programming/React/Prop forwarding.md",
+    "web-programming/CSS/CSS Properties.md",
+    "web-programming/CSS/CSS hide checkboxes.md",
+    "web-programming/CSS/CSS Grid uncertain tracks.md",
+    "web-programming/CSS/CSS Grid overlap.md",
+    "web-programming/CSS/CSS Grid Minmax Fit-content.md",
+    "web-programming/CSS/CSS Grid layout.md",
+    "web-programming/CSS/CSS Grid auto-fill auto-fit.md",
+    "web-programming/CSS/CSS Grid alignment.md",
+    "Git/Git branches.md",
+    "Git/Git commands.md",
+    "Git/Git quick primer.md",
+    "Git/SSH key generation.md",
+    "web-programming/CSS/CSS Pseudo-classes.md",
+    "web-programming/CSS/CSS Selectors.md",
+    "web-programming/CSS/CSS Vendor-agnostic placeholders.md",
+    "Untitled.canvas",
+    "Pasted image 20221201195033.png",
+    "Pasted image 20221201194852.png",
+    "Pasted image 20221201193401.png",
+    "Pasted image 20221201193343.png",
+    "web-programming/React",
+    "Git",
+    "Vim"
+  ]
+}
