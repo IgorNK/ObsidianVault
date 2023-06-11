@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "Shadowrun 3rd Ed./Проверки.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "Shadowrun 3rd Ed./Проверки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "Shadowrun 3rd Ed./Проверки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "Shadowrun 3rd Ed./Проверки.md"
               }
             }
           }
@@ -225,6 +225,8 @@
   },
   "active": "d07557c33b1208b4",
   "lastOpenFiles": [
+    "Shadowrun 3rd Ed./Проверки.md",
+    "home.md",
     "web-programming/React/React.md",
     "web-programming/JS/JavaScript.md",
     "web-programming/HTML/HTML.md",
@@ -237,8 +239,6 @@
     "Git/Git branches.md",
     "bash/Bash.md",
     "Shadowrun 3rd Ed./Shadowrun 3rd Ed..md",
-    "Shadowrun 3rd Ed./Проверки.md",
-    "home.md",
     "netlify.toml",
     "Shadowrun 3rd Ed.",
     "web-programming/React/Callbacks.md",
