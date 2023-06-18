@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shadowrun 3rd Ed./Навыки.md",
+                "file": "web-programming/React/Context.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shadowrun 3rd Ed./Навыки.md",
+                "file": "web-programming/React/Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shadowrun 3rd Ed./Навыки.md",
+                "file": "web-programming/React/Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shadowrun 3rd Ed./Навыки.md"
+                "file": "web-programming/React/Context.md"
               }
             }
           }
@@ -229,8 +229,10 @@
   },
   "active": "9fec74e6867d557f",
   "lastOpenFiles": [
-    "Shadowrun 3rd Ed./Глоссарий.md",
+    "web-programming/React/Reducer.md",
+    "web-programming/React/Context.md",
     "Shadowrun 3rd Ed./Навыки.md",
+    "Shadowrun 3rd Ed./Глоссарий.md",
     "Shadowrun 3rd Ed./Shadowrun 3rd Ed..md",
     "Shadowrun 3rd Ed./Магия.md",
     "Shadowrun 3rd Ed./Расы и Атрибуты.md",
@@ -255,8 +257,6 @@
     "web-programming/React/Callbacks.md",
     "web-programming/React/Carrying props.md",
     "web-programming/React/css-loader.md",
-    "web-programming/React/Props.md",
-    "web-programming/React/State.md",
     "web-programming/React/Untitled",
     "Untitled.canvas",
     "Pasted image 20221201195033.png",
