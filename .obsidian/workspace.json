@@ -71,12 +71,8 @@
             "id": "9fec74e6867d557f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web-programming/React/Redux.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -166,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web-programming/React/Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web-programming/React/Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "web-programming/React/Redux.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -229,18 +221,22 @@
   },
   "active": "9fec74e6867d557f",
   "lastOpenFiles": [
-    "web-programming/React/Reducer.md",
-    "web-programming/React/Callbacks.md",
-    "web-programming/React/State.md",
-    "web-programming/React/Redux.md",
     "web-programming/React/React.md",
+    "web-programming/React/Conditional rendering.md",
+    "web-programming/React/Carrying props.md",
+    "web-programming/React/useDispatch.md",
+    "web-programming/React/useSelector.md",
+    "web-programming/React/Redux.md",
+    "web-programming/React/State.md",
+    "web-programming/React/Reducer.md",
+    "web-programming/React/Context.md",
+    "web-programming/React/connect.md",
+    "web-programming/React/Callbacks.md",
     "web-programming/React/PropTypes.md",
     "web-programming/React/Props.md",
     "web-programming/React/Prop forwarding.md",
     "web-programming/React/Font imports.md",
     "web-programming/React/css-loader.md",
-    "web-programming/React/Context.md",
-    "web-programming/React/Carrying props.md",
     "Shadowrun 3rd Ed./Навыки.md",
     "Shadowrun 3rd Ed./Глоссарий.md",
     "Shadowrun 3rd Ed./Shadowrun 3rd Ed..md",
@@ -251,10 +247,6 @@
     "Shadowrun 3rd Ed./Проверки.md",
     "web-programming/JS/JS DOM manipulation.md",
     "web-programming/CSS/CSS.md",
-    "home.md",
-    "web-programming/JS/JavaScript.md",
-    "web-programming/HTML/HTML.md",
-    "web-programming/CSS/CSS Grid alignment.md",
     "netlify.toml",
     "Shadowrun 3rd Ed.",
     "web-programming/React/Untitled",

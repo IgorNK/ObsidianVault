@@ -1,7 +1,8 @@
 ```
 const [state, dispatch] = React.useReducer(reducer, initialArg, init);
 ```
-[state, dispatch] - результат хука, state - текущее состояние, dispatch - функция отправки экшена
+
+\[state, dispatch\] - результат хука, state - текущее состояние, dispatch - функция отправки экшена
 reducer - функция-обработчик состояния
 initialArg - исходное значение
 init - функция инициализации

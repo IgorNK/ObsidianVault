@@ -97,4 +97,9 @@ ReactDOM.render(
   document.getElementById('root')
 ); 
 ```
+
+[[connect]]
+[[useSelector]]
+[[useDispatch]]
+
 #react
