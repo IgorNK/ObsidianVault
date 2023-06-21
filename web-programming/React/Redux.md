@@ -101,5 +101,9 @@ ReactDOM.render(
 [[connect]]
 [[useSelector]]
 [[useDispatch]]
+[[redux-thunk]]
+[[Redux Devtools]]
+[[Forms with Redux]]
+[[Redux Toolkit]]
 
 #react
