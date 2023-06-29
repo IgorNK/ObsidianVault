@@ -105,5 +105,6 @@ ReactDOM.render(
 [[Redux Devtools]]
 [[Forms with Redux]]
 [[Redux Toolkit]]
+[[React-dnd + Redux]]
 
 #react
