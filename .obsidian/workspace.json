@@ -8,91 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2041702833cd221",
+            "id": "62ee2e1222eb952a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim/Vim tips.md",
+                "file": "DnD notes/Curse of Strahd/Local lore.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0e5dcd1e93669284",
+            "id": "35210fbcd65b09c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web-programming/React/Props.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c94263c9b7e1ecb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web-programming/JS/JS DOM manipulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d40bfcf93de72fbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web-programming/React/Carrying props.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "120ef90644c8cd3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shadowrun 3rd Ed./Shadowrun 3rd Ed..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fec74e6867d557f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web-programming/React/useSelector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d07557c33b1208b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web-programming/CSS/CSS.md",
+                "file": "Gamedev/Level design/Spatial communication.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web-programming/React/useSelector.md",
+                "file": "Gamedev/Level design/Spatial communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web-programming/React/useSelector.md",
+                "file": "Gamedev/Level design/Spatial communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web-programming/React/useSelector.md"
+                "file": "Gamedev/Level design/Spatial communication.md"
               }
             }
           }
@@ -227,44 +167,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fec74e6867d557f",
+  "active": "35210fbcd65b09c4",
   "lastOpenFiles": [
-    "web-programming/React/React-dnd + Redux.md",
-    "web-programming/React/useSelector.md",
-    "web-programming/React/Conditional rendering.md",
-    "web-programming/React/React-dnd.md",
-    "web-programming/React/State.md",
-    "web-programming/React/Redux.md",
-    "web-programming/React/React.md",
-    "web-programming/React/useDispatch.md",
-    "web-programming/React/Redux Toolkit.md",
-    "web-programming/React/Forms with Redux.md",
-    "web-programming/React/Callbacks.md",
-    "web-programming/React/redux-thunk.md",
-    "web-programming/React/Redux Devtools.md",
-    "web-programming/React/Reducer.md",
-    "web-programming/React/PropTypes.md",
-    "web-programming/React/Carrying props.md",
-    "web-programming/React/connect.md",
+    "Git/Fetch branch from original (forked) repository.md",
+    "Gamedev/Level design/Spatial communication.md",
+    "Gamedev/Level design",
     "web-programming/React/Context.md",
+    "Git/Git branches.md",
+    "DnD notes/Curse of Strahd/Kolyan Indirovich's Letter.md",
+    "DnD notes/Curse of Strahd/Local lore.md",
+    "DnD notes/Curse of Strahd/NPC.md",
+    "DnD notes/Curse of Strahd/Timeline.md",
+    "DnD notes/Curse of Strahd/Names.md",
+    "DnD notes/Curse of Strahd/Exhaustion.md",
+    "DnD notes/Curse of Strahd/Spell Modifications.md",
+    "DnD notes/Curse of Strahd/Tarokka reading.md",
+    "DnD notes/Curse of Strahd/Session 1 - Village of Borovia.md",
+    "Pasted image 20240210102016.png",
+    "DnD notes/Curse of Strahd/Curse of Strahd.md",
+    "Gamedev/Pathfinding/Pathfinding.md",
+    "DnD notes/Curse of Strahd",
+    "DnD notes",
+    "Gamedev/2D Vector math/2D Vector math.md",
+    "Gamedev/2D Vector math/Angle between vectors.md",
+    "Pasted image 20240207231320.png",
+    "Pasted image 20240207231145.png",
+    "Gamedev/Pathfinding",
+    "Gamedev/Untitled.md",
+    "Gamedev/Gamedev.md",
+    "Pasted image 20240125195110.png",
+    "Pasted image 20240125194729.png",
+    "Pasted image 20231224134045.png",
+    "Pasted image 20231224132641.png",
+    "Pasted image 20231224131800.png",
+    "Pasted image 20231224131723.png",
+    "web-programming/CSS/CSS.md",
+    "Shadowrun 3rd Ed/Shadowrun 3rd Ed.md",
+    "web-programming/React/Carrying props.md",
+    "web-programming/JS/JS DOM manipulation.md",
     "web-programming/React/Props.md",
-    "web-programming/React/Prop forwarding.md",
-    "web-programming/React/Font imports.md",
-    "web-programming/React/css-loader.md",
-    "Shadowrun 3rd Ed./Навыки.md",
-    "Shadowrun 3rd Ed./Глоссарий.md",
-    "Shadowrun 3rd Ed./Shadowrun 3rd Ed..md",
-    "Shadowrun 3rd Ed./Магия.md",
+    "Vim/Vim tips.md",
+    "Gamedev/ImGUI/ImGUI child views.md",
+    "Pasted image 20231216133455.png",
+    "Gamedev/2D Vector math",
+    "Gamedev/ImGUI",
+    "Gamedev",
     "netlify.toml",
-    "Shadowrun 3rd Ed.",
+    "Shadowrun 3rd Ed",
     "web-programming/React/Untitled",
-    "Untitled.canvas",
-    "Pasted image 20221201195033.png",
-    "Pasted image 20221201194852.png",
-    "Pasted image 20221201193401.png",
-    "Pasted image 20221201193343.png",
-    "web-programming/React",
-    "Git",
-    "Vim"
+    "Untitled.canvas"
   ]
 }

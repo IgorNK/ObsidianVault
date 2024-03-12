@@ -7,7 +7,7 @@ Feel free to satisfy your curiosity!
 - [[Git]]
 - [[Vim]]
 - [[Web Programming]]
-- [[Shadowrun 3rd Ed.]]
+- [[Shadowrun 3rd Ed]]
 
 ## My github page: 
 https://github.com/IgorNK
