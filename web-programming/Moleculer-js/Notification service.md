@@ -144,6 +144,27 @@ const NotificationService: ServiceSchema<ServiceSettingSchema> & { methods: Noti
 }
 ```
 
+Действия в сервисе для подписки и отписки:
+```
+const NotificationService: ServiceSchema<ServiceSettingSchema> & { methods: NotificationMethods } = {
+	...
+	actions: {
+		...
+		subscribe: {
+			handler(ctx: Context<null, Meta>) {
+			this.logger.info(`${ctx.meta.$socketId} subscribed!`);
+			this.subscribers.push(ctx.meta.$socketId);
+		},
+		unsubscribe: {
+			handler(ctx: Context<null, Meta>) {
+			this.logger.info(`${ctx.meta.$socketId} unsubscribed!`);
+			this.subscribers = this.subscribers.filter((id: string) => id !== ctx.meta.$socketId);
+		}
+	}
+}
+
+```
+
 И сам метод для оповещения:
 
 ```
