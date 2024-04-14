@@ -26,6 +26,16 @@ NotificationLocalVars - описание локальных переменных
 
 NotificationMethods - описание служебных методов сервиса. Пока что их тоже нет.
 
+```
+type Meta = {
+	'$socketId': string,
+	user: string,
+	'$rooms': string[]
+}
+```
+
+Тип Meta нужен для описания того, что содержится в контексте запроса. В частности, нам нужен $socketId - айдишник клиента, обращающегося к сервису.
+
 Создаём сам сервис:
 ```
 const NotificationService: ServiceSchema<ServiceSettingSchema> & { methods: NotificationMethods } = {
