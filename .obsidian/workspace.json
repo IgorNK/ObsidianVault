@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD notes/Curse of Strahd/Local lore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35210fbcd65b09c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gamedev/Level design/Spatial communication.md",
+                "file": "web-programming/Moleculer-js/Frontend example.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gamedev/Level design/Spatial communication.md",
+                "file": "web-programming/Moleculer-js/Frontend example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamedev/Level design/Spatial communication.md",
+                "file": "web-programming/Moleculer-js/Frontend example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gamedev/Level design/Spatial communication.md"
+                "file": "web-programming/Moleculer-js/Frontend example.md"
               }
             }
           }
@@ -167,15 +154,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35210fbcd65b09c4",
+  "active": "62ee2e1222eb952a",
   "lastOpenFiles": [
-    "Git/Fetch branch from original (forked) repository.md",
+    "web-programming/Moleculer-js/Notification service.md",
+    "web-programming/Moleculer-js/Api service.md",
+    "web-programming/Moleculer-js/Moleculer-js.md",
+    "web-programming/Moleculer-js/Frontend example.md",
+    "Shadowrun 3rd Ed/Время.md",
+    "DnD notes/Curse of Strahd/Local lore.md",
+    "Назад.md",
+    "Pasted image 20240413124035.png",
+    "Shadowrun 3rd Ed/Shadowrun 3rd Ed.md",
+    "web-programming/Moleculer-js",
     "Gamedev/Level design/Spatial communication.md",
+    "Git/Fetch branch from original (forked) repository.md",
     "Gamedev/Level design",
     "web-programming/React/Context.md",
     "Git/Git branches.md",
     "DnD notes/Curse of Strahd/Kolyan Indirovich's Letter.md",
-    "DnD notes/Curse of Strahd/Local lore.md",
     "DnD notes/Curse of Strahd/NPC.md",
     "DnD notes/Curse of Strahd/Timeline.md",
     "DnD notes/Curse of Strahd/Names.md",
@@ -201,20 +197,11 @@
     "Pasted image 20231224132641.png",
     "Pasted image 20231224131800.png",
     "Pasted image 20231224131723.png",
-    "web-programming/CSS/CSS.md",
-    "Shadowrun 3rd Ed/Shadowrun 3rd Ed.md",
-    "web-programming/React/Carrying props.md",
-    "web-programming/JS/JS DOM manipulation.md",
-    "web-programming/React/Props.md",
-    "Vim/Vim tips.md",
-    "Gamedev/ImGUI/ImGUI child views.md",
-    "Pasted image 20231216133455.png",
     "Gamedev/2D Vector math",
     "Gamedev/ImGUI",
     "Gamedev",
     "netlify.toml",
     "Shadowrun 3rd Ed",
-    "web-programming/React/Untitled",
     "Untitled.canvas"
   ]
 }
