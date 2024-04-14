@@ -101,3 +101,4 @@ routes: [
 ]
 ```
 
+[Наверх](Moleculer-js)
