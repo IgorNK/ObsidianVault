@@ -17,7 +17,7 @@ npm install -D moleculer-repl moleculer-web typescript ts-node
 ```
 moleculer-web и moleculer-repl нужны будут для запуска сервиса.
 
-4. Создаём файл конфига moleculer. Его образец можно подсмотреть здесь: [[https://github.com/moleculerjs/moleculer-template-project-typescript]]
+4. Создаём файл конфига moleculer. Его образец можно подсмотреть здесь: [https://github.com/moleculerjs/moleculer-template-project-typescript](https://github.com/moleculerjs/moleculer-template-project-typescript)
 ```
 touch moleculer.config.ts
 ```
@@ -106,7 +106,7 @@ Transporter отвечает за способ обмена данными ме�
 
 Поскольку в Procharity уже используется redis в качестве базы данных, подозреваю, его же и будут использовать в качестве транспортера.
 В целом описание конфига можно почитать на сайте:
-[[https://moleculer.services/docs/0.14/configuration]]
+[https://moleculer.services/docs/0.14/configuration](https://moleculer.services/docs/0.14/configuration)
 
 5. Создаем конфиг typescript:
 ```
