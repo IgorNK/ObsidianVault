@@ -215,4 +215,93 @@ const onDisconnect = () => {
 
 Теперь каждую секунду по ws мы будем получать точное время в Токио.
 
+Финальный вариант сервиса:
+
+```
+import type { ServiceSchema, ServiceSettingSchema, Service, Context } from 'moleculer';
+import { CronJob } from 'cron';
+
+export interface NotificationParams {
+    message: string,
+}
+
+interface NotificationLocalVars {
+    subscribers: string[],
+}
+
+interface NotificationMethods {
+    notifyAll: (message: string) => void;
+}
+
+type Meta = {
+    '$socketId': string,
+    user: string,
+    '$rooms': string[]
+}
+
+type NotificationThis = Service<ServiceSettingSchema> & NotificationMethods & NotificationLocalVars;
+const NotificationService: ServiceSchema<ServiceSettingSchema> & { methods: NotificationMethods } = {
+    name: "notification",
+    actions: {
+        notify: {
+            params: {
+                message: { type: "string" }
+            },
+            handler(ctx: Context<NotificationParams, Meta>) {
+                this.logger.info(ctx.meta.$socketId);
+                this.broker.call('io.broadcast', {
+                    namespace: '/',
+                    event: 'event',
+                    args: [ctx.params.message],
+                    local: true,
+                    rooms: [ctx.meta.$socketId]
+                });
+                return ctx.params.message;
+            }
+        },
+        subscribe: {
+            handler(ctx: Context<null, Meta>) {
+                this.logger.info(`${ctx.meta.$socketId} subscribed!`);
+                this.subscribers.push(ctx.meta.$socketId);
+            }
+        },
+        unsubscribe: {
+            handler(ctx: Context<null, Meta>) {
+                this.logger.info(`${ctx.meta.$socketId} unsubscribed!`);
+                this.subscribers = this.subscribers.filter((id: string) => id !== ctx.meta.$socketId);
+            }
+        }
+    },
+    methods: {
+        notifyAll(message: string) {
+            this.broker.call('io.broadcast', {
+                namespace: '/',
+                event: 'event',
+                args: [message],
+                local: true,
+                rooms: this.subscribers
+            });
+        }
+    },
+    created() {
+        this.subscribers = [];
+    },
+    stopped() {
+        this.subscribers = [];
+    },
+    async started(this) {
+        const job = CronJob.from({
+            cronTime: '* * * * * *',
+            onTick: () => {
+                this.notifyAll(`Current time: ${new Date().toString()}`)
+            },
+            start: true,
+            timeZone: 'Asia/Tokyo'
+        });
+    }
+};
+
+export default NotificationService;
+```
+
 [Наверх](Moleculer-js)

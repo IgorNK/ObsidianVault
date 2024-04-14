@@ -1,6 +1,13 @@
 [Наверх](Moleculer-js)
 
+Для работы с сокетами во фронте будем использовать socket.io:
+
+```
+yarn add socket.io-client
+```
+
 socket.ts:
+
 ```
 import { io } from 'socket.io-client';
 
