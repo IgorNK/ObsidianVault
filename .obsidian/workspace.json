@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web-programming/Moleculer-js/Frontend example.md",
+                "file": "web-programming/Moleculer-js/Notification service.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web-programming/Moleculer-js/Frontend example.md",
+                "file": "web-programming/Moleculer-js/Notification service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web-programming/Moleculer-js/Frontend example.md",
+                "file": "web-programming/Moleculer-js/Notification service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web-programming/Moleculer-js/Frontend example.md"
+                "file": "web-programming/Moleculer-js/Notification service.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "62ee2e1222eb952a",
   "lastOpenFiles": [
-    "web-programming/Moleculer-js/Api service.md",
     "web-programming/Moleculer-js/Frontend example.md",
+    "web-programming/Moleculer-js/Api service.md",
     "web-programming/Moleculer-js/Notification service.md",
     "web-programming/Moleculer-js/Moleculer-js.md",
     "web-programming/Web Programming.md",
