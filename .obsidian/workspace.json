@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11f62b8d74a509aa",
+        "id": "34b4930679b9fa62",
         "type": "tabs",
         "children": [
           {
-            "id": "62ee2e1222eb952a",
+            "id": "9b905f99e5dcd5a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gamedev/vlogs/vlog 0 revised.md",
+                "file": "Gamedev/GameJams/PirateSoftware 16/Hordenbrecher.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fancy",
+                "query": "tag:#react",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gamedev/vlogs/vlog 0 revised.md",
+                "file": "Gamedev/GameJams/PirateSoftware 16/Hordenbrecher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gamedev/vlogs/vlog 0 revised.md",
+                "file": "Gamedev/GameJams/PirateSoftware 16/Hordenbrecher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gamedev/vlogs/vlog 0 revised.md"
+                "file": "Gamedev/GameJams/PirateSoftware 16/Hordenbrecher.md"
               }
             }
           }
@@ -154,10 +154,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62ee2e1222eb952a",
+  "active": "9b905f99e5dcd5a7",
   "lastOpenFiles": [
-    "Gamedev/vlogs/vlog 0.md",
+    "Gamedev/Gamedev.md",
+    "Gamedev/GameJams/PirateSoftware 16/Hordenbrecher.md",
+    "Gamedev/ImGUI/ImGUI lists and IDs.md",
+    "Gamedev/ImGUI/ImGUI colors.md",
+    "Gamedev/ImGUI/ImGUI child views.md",
+    "Gamedev/Level design/Spatial communication.md",
+    "Gamedev/Pathfinding/Pathfinding.md",
     "Gamedev/vlogs/vlog 0 revised.md",
+    "Shadowrun 3rd Ed/Shadowrun 3rd Ed.md",
+    "Shadowrun 3rd Ed/Время.md",
+    "web-programming/React/Callbacks.md",
+    "Gamedev/GameJams/PirateSoftware 16",
+    "Gamedev/GameJams",
+    "Gamedev/vlogs/vlog 0.md",
     "Design/Layout/Layout.md",
     "Gamedev/vlogs",
     "Design/Design.md",
@@ -181,27 +193,15 @@
     "web-programming/Moleculer-js/Api service.md",
     "web-programming/Moleculer-js/Moleculer-js.md",
     "web-programming/Web Programming.md",
-    "Shadowrun 3rd Ed/Время.md",
     "DnD notes/Curse of Strahd/Local lore.md",
     "Назад.md",
     "Pasted image 20240413124035.png",
-    "Shadowrun 3rd Ed/Shadowrun 3rd Ed.md",
     "web-programming/Moleculer-js",
-    "Gamedev/Level design/Spatial communication.md",
     "Git/Fetch branch from original (forked) repository.md",
     "Gamedev/Level design",
     "web-programming/React/Context.md",
-    "Git/Git branches.md",
-    "DnD notes/Curse of Strahd/Kolyan Indirovich's Letter.md",
-    "DnD notes/Curse of Strahd/NPC.md",
-    "DnD notes/Curse of Strahd/Timeline.md",
-    "DnD notes/Curse of Strahd/Names.md",
-    "DnD notes/Curse of Strahd/Exhaustion.md",
-    "DnD notes/Curse of Strahd/Spell Modifications.md",
     "DnD notes/Curse of Strahd",
     "DnD notes",
-    "Gamedev/Pathfinding",
-    "Gamedev/2D Vector math",
     "Untitled.canvas"
   ]
 }

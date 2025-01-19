@@ -64,3 +64,5 @@ A primer on the meaning and use of ID in ImGui:
       e.g. when displaying a single object that may change over time (1-1 relationship), using a static string as ID will preserve your node open/closed state when the targeted object change.
       e.g. when displaying a list of objects, using indices or pointers as ID will preserve the node open/closed state differently. experiment and see what makes more sense!
 ```
+
+#gamedev #imgui

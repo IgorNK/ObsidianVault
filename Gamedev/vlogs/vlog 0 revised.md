@@ -55,3 +55,5 @@ I use techniques from beginner Svelte tutorials to draw and animate the cards.
 ## Conclusion
 
 That’s it for now. If you have any ideas for the title, post a comment or send me an email. If you need any particular techniques explained further, also post a comment, and I'll see what I can cover in the next video.
+
+#gamedev
