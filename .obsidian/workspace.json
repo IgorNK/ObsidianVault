@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web-programming/Moleculer-js/Notification service.md",
+                "file": "Gamedev/vlogs/vlog 0 revised.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web-programming/Moleculer-js/Notification service.md",
+                "file": "Gamedev/vlogs/vlog 0 revised.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web-programming/Moleculer-js/Notification service.md",
+                "file": "Gamedev/vlogs/vlog 0 revised.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web-programming/Moleculer-js/Notification service.md"
+                "file": "Gamedev/vlogs/vlog 0 revised.md"
               }
             }
           }
@@ -156,9 +156,29 @@
   },
   "active": "62ee2e1222eb952a",
   "lastOpenFiles": [
+    "Gamedev/vlogs/vlog 0.md",
+    "Gamedev/vlogs/vlog 0 revised.md",
+    "Design/Layout/Layout.md",
+    "Gamedev/vlogs",
+    "Design/Design.md",
+    "Pasted image 20240430150559.png",
+    "Pasted image 20240430150548.png",
+    "Pasted image 20240430150532.png",
+    "Pasted image 20240430150510.png",
+    "Pasted image 20240430150504.png",
+    "Pasted image 20240430150449.png",
+    "Pasted image 20240430150435.png",
+    "Pasted image 20240430150423.png",
+    "Pasted image 20240430150405.png",
+    "Design/Checklists/Checklists.md",
+    "Design/Layout",
+    "Design/Checklists/Подготовка к запуску проектана Tilda Publishing.md",
+    "Design/Checklists/Чек-лист передачи дизайн-макетов на верстку.md",
+    "web-programming/Moleculer-js/Notification service.md",
+    "Design/Checklists",
+    "Design",
     "web-programming/Moleculer-js/Frontend example.md",
     "web-programming/Moleculer-js/Api service.md",
-    "web-programming/Moleculer-js/Notification service.md",
     "web-programming/Moleculer-js/Moleculer-js.md",
     "web-programming/Web Programming.md",
     "Shadowrun 3rd Ed/Время.md",
@@ -178,30 +198,10 @@
     "DnD notes/Curse of Strahd/Names.md",
     "DnD notes/Curse of Strahd/Exhaustion.md",
     "DnD notes/Curse of Strahd/Spell Modifications.md",
-    "DnD notes/Curse of Strahd/Tarokka reading.md",
-    "DnD notes/Curse of Strahd/Session 1 - Village of Borovia.md",
-    "Pasted image 20240210102016.png",
-    "DnD notes/Curse of Strahd/Curse of Strahd.md",
-    "Gamedev/Pathfinding/Pathfinding.md",
     "DnD notes/Curse of Strahd",
     "DnD notes",
-    "Gamedev/2D Vector math/2D Vector math.md",
-    "Gamedev/2D Vector math/Angle between vectors.md",
-    "Pasted image 20240207231320.png",
-    "Pasted image 20240207231145.png",
     "Gamedev/Pathfinding",
-    "Gamedev/Untitled.md",
-    "Pasted image 20240125195110.png",
-    "Pasted image 20240125194729.png",
-    "Pasted image 20231224134045.png",
-    "Pasted image 20231224132641.png",
-    "Pasted image 20231224131800.png",
-    "Pasted image 20231224131723.png",
     "Gamedev/2D Vector math",
-    "Gamedev/ImGUI",
-    "Gamedev",
-    "netlify.toml",
-    "Shadowrun 3rd Ed",
     "Untitled.canvas"
   ]
 }
