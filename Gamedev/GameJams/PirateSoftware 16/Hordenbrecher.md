@@ -17,12 +17,13 @@ The game has three stages featuring large enemy hordes. Between stages there's a
 The game is developed for desktop web browsers and Windows/Linux PC, with possible later port for mobile touchscreen devices.
 #### Development tools
 - SDL3 as an application framework
+- EnTT - library for Entity Component System
 - Aseprite for graphics
 - Korg Minilogue hardware synth, Ableton and Audacity for music and sound FX
 #### Genre
 Tower Defense, Casual
 #### Target Audience
-The game is leaning towards *casual players* and fans of darker Sci-Fi.
+The game is leaning towards ***casual players*** and fans of darker Sci-Fi.
 ### Concept
 #### Gameplay overview
 The player controls placement of structures on a grid representing the spaceship. Each structure has associated cost of production. You gain resources for construction by capturing and processing asteroids floating toward the ship. Processing of asteroid ores requires its own special building.
@@ -85,25 +86,26 @@ All interactions are through mouse point'n'click interface.
 | #   | Assignment          | Type   | Status      | Finish By | Notes                  |
 | --- | ------------------- | ------ | ----------- | --------- | ---------------------- |
 | 1   | Design Document     | Other  | In Progress | Jan 31    | It's a living document |
-| 2   | Camera movement     | Coding | Not Started | Jan 21    |                        |
-| 3   | Game UI             | Coding | Not Started | Jan 21    |                        |
-| 4   | Structure placement | Coding | Not Started | Jan 22    |                        |
-| 5   | Enemy AI            | Coding | Not Started | Jan 22    |                        |
-| 6   | Structure damage    | Coding | Not Started | Jan 22    |                        |
-| 7   | Structure functions | Coding | Not Started | Jan 23    |                        |
-| 8   | Main menu           | Coding | Not Started | Jan 23    |                        |
-| 9   | Ending              | Coding | Not Started | Jan 24    |                        |
-| 10  | Audio system        | Coding | Not Started | Jan 24    |                        |
-| 11  | Main theme          | Audio  | Not Started | Jan 25    |                        |
-| 12  | Sound effects       | Audio  | Not Started | Jan 26    |                        |
-| 13  | Structure sprites   | Art    | Not Started | Jan 27    |                        |
-| 14  | Enemy sprites       | Art    | Not Started | Jan 27    |                        |
-| 15  | Ship art            | Art    | Not Started | Jan 28    |                        |
-| 16  | Background art      | Art    | Not Started | Jan 28    |                        |
-| 17  | UI graphics         | Art    | Not Started | Jan 29    |                        |
-| 18  | Special effects     | Art    | Not Started | Jan 29    |                        |
-| 19  | Playtesting         | Other  | Not Started | Jan 30    |                        |
-| 19  | SUBMIT              | Other  | Not Started | Jan 31    |                        |
+| 2   | Input system        | Coding | Completed   | Jan 20    |                        |
+| 3   | Camera movement     | Coding | Completed   | Jan 20    |                        |
+| 4   | Game UI             | Coding | Not Started | Jan 21    |                        |
+| 5   | Structure placement | Coding | Not Started | Jan 22    |                        |
+| 6   | Enemy AI            | Coding | Not Started | Jan 22    |                        |
+| 7   | Structure damage    | Coding | Not Started | Jan 22    |                        |
+| 8   | Structure functions | Coding | Not Started | Jan 23    |                        |
+| 9   | Main menu           | Coding | Not Started | Jan 23    |                        |
+| 10  | Ending              | Coding | Not Started | Jan 24    |                        |
+| 11  | Audio system        | Coding | Not Started | Jan 24    |                        |
+| 12  | Main theme          | Audio  | Not Started | Jan 25    |                        |
+| 13  | Sound effects       | Audio  | Not Started | Jan 26    |                        |
+| 14  | Structure sprites   | Art    | Not Started | Jan 27    |                        |
+| 15  | Enemy sprites       | Art    | Not Started | Jan 27    |                        |
+| 16  | Ship art            | Art    | Not Started | Jan 28    |                        |
+| 17  | Background art      | Art    | Not Started | Jan 28    |                        |
+| 18  | UI graphics         | Art    | Not Started | Jan 29    |                        |
+| 19  | Special effects     | Art    | Not Started | Jan 29    |                        |
+| 20  | Playtesting         | Other  | Not Started | Jan 30    |                        |
+| 21  | SUBMIT              | Other  | Not Started | Jan 31    |                        |
 #### Beyond
 | #   | Assignment         | Type   | Status      | Notes |
 | --- | ------------------ | ------ | ----------- | ----- |
